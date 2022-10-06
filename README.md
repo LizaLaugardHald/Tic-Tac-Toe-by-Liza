@@ -1,2 +1,12 @@
 # Tic-Tac-Toe-by-Liza
-Here are the requirements for the game:  2 players should be able to play the game (both sitting at the same computer). The board should be printed out every time a player makes a move. The game should be able to accept input of the player position and then place a symbol on the board.
+
+### **_Introduction_**
+This application is a tic-tac-toe game for 2 players. The first player to 3 marks in a straight line wins the game.
+
+### **_Used Technologies_**
+Python
+Jupiter Notebook
+Anaconda
+ 
+## How to run the game
+Run the "Tic Tac Toe by Liza.ipynb" file in a Jupiter Notebook.
