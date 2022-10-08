@@ -9,4 +9,4 @@ This application is a tic-tac-toe game for 2 players. The first player to 3 mark
 3. Anaconda
  
 ## How to run the game
-Run the "Tic Tac Toe by Liza.ipynb" file in a Jupiter Notebook.
+Run the "Tic Tac Toe by Liza.ipynb" file in Jupiter Notebook.
